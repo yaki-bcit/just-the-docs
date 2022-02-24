@@ -7,15 +7,12 @@ nav_order: 2
 # Introduction
 {: .no_toc }
 
-
+These instructions will help you get started with VirtualBox, powerful virtualization software that lets you run various guest operating systems on your computer.
 
 {: .fs-6 .fw-300 }
 
 ## Table of contents
 {: .no_toc .text-delta }
-
-These instructions will help you get started with VirtualBox, powerful virtualization software that lets you run various guest operating systems on your computer.
-
 
 1. TOC
 {:toc}
