@@ -27,17 +27,17 @@ These instructions will help you get started with VirtualBox, powerful virtualiz
 
 **Virtualization software** is a program that allows you to run extra operating systems, called guest systems or virtual machines, on top of the main operating system, called host operating system.
 
-> Note: While these instructions focus on VirtualBox specifically, other virtualization software from different vendors also exists. While there are important differences among such software, the core concepts will remain the same. Thus, once you are comfortable with VirtualBox, you may find other virtualization software, such as VMWare Workstation Player, easy to understand and use.
+> **Note**: While these instructions focus on VirtualBox specifically, other virtualization software from different vendors also exists. While there are important differences among such software, the core concepts will remain the same. Thus, once you are comfortable with VirtualBox, you may find other virtualization software, such as VMWare Workstation Player, easy to understand and use.
 
 A host operating system is what is installed for your computer and what you run your programs in every day.
 
-> Note: For the purposes of these instructions, we will assume that your host operating system is Windows 10.
+> **Note**: For the purposes of these instructions, we will assume that your host operating system is Windows 10.
 
 A guest operating system or a virtual machine is an operating system that is run with the help of special virtualization software while the host operating system is still running.
 
 For example, if your host operating system is Windows 10, you can run another instance of Windows 10 as a guest system, or a guest linux-based operating system such as Ubuntu.
 
-> Note: These instructions include a tutorial for running Ubuntu (linux).
+> **Note**: These instructions include a tutorial for running Ubuntu (linux).
 
 ## Who This Guide is For
 
@@ -53,7 +53,7 @@ First of all, virtualization is a fairly demanding task. To run your guest opera
 
 Arguably, some specialized guest operating systems can take advantage of even lower specs. You should note, however, that the above numbers are the absolute lowest limits that allow useful operation of your virtual operating system in most circumstances.
 
-> Note: You should always expect your computer to run somewhat more slowly when a virtual operating system is on. This will happen because the single pool of your hardware resources is shared by two operating systems at once.
+> **Note**: You should always expect your computer to run somewhat more slowly when a virtual operating system is on. This will happen because the single pool of your hardware resources is shared by two operating systems at once.
 
 ## Notes and Warnings
 
